@@ -1,7 +1,7 @@
 package com.feign.enumeration;
 
 public enum StudentEnum {
-    STATUS_USe("1", "使用"),
+    STATUS_USE("1", "使用"),
     STATUS_NOT_USE("0", "未使用"),
     ;
 
